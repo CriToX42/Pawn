@@ -86,6 +86,8 @@ Pawn plays along with most other addons, but there are a few that break Pawn tha
 
 ### Version 2.14.2
 
+* Fixed spell damage and healing being missed on some items in French.
+
 ### Version 2.14.1
 
 * Forever: Includes new default stat weights for all classes and specs, curated by HawsJon.
